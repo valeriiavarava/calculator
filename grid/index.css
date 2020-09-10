@@ -1,0 +1,268 @@
+#calc {
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    grid-template-rows: repeat(6, 100px);
+    font-size: xx-large;
+    width: 400px;
+    background: rgb(65, 63, 63);
+    padding: 10px;
+}
+
+#result {
+    display: grid;
+    grid-row: 1/2;
+    grid-column: 1/5;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#AC {
+    display: grid;
+    grid-row: 2/3;
+    grid-column: 1/2;
+    background: gray;
+    font-size: x-large;
+    color: white;
+}
+
+#AC:hover {
+    background: rgb(102, 100, 100);
+}
+
+#percentage {
+    display: grid;
+    grid-row: 2/3;
+    grid-column: 2/3;
+    background: gray;
+    font-size: x-large;
+    color: white;
+}
+
+#percentage:hover {
+    background: rgb(102, 100, 100);
+}
+
+#plus-minus {
+    display: grid;
+    grid-row: 2/3;
+    grid-column: 3/4;
+    background: gray;
+    font-size: x-large;
+    color: white;
+}
+
+#plus-minus:hover {
+    background: rgb(102, 100, 100);
+}
+
+#one {
+    display: grid;
+    grid-row: 3/4;
+    grid-column: 1/2;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#one:hover {
+    background: rgb(102, 100, 100);
+}
+
+#two {
+    display: grid;
+    grid-row: 3/4;
+    grid-column: 2/3;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#two:hover {
+    background: rgb(102, 100, 100);
+}
+
+#three {
+    display: grid;
+    grid-row: 3/4;
+    grid-column: 3/4;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#three:hover {
+    background: rgb(102, 100, 100);
+}
+
+#four {
+    display: grid;
+    grid-row: 4/5;
+    grid-column: 1/2;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#four:hover {
+    background: rgb(102, 100, 100);
+}
+
+#five {
+    display: grid;
+    grid-row: 4/5;
+    grid-column: 2/3;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#five:hover {
+    background: rgb(102, 100, 100);
+}
+
+#six {
+    display: grid;
+    grid-row: 4/5;
+    grid-column: 3/4;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#six:hover {
+    background: rgb(102, 100, 100);
+}
+
+#seven {
+    display: grid;
+    grid-row: 5/6;
+    grid-column: 1/2;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#seven:hover {
+    background: rgb(102, 100, 100);
+}
+
+#eight {
+    display: grid;
+    grid-row: 5/6;
+    grid-column: 2/3;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#eight:hover {
+    background: rgb(102, 100, 100);
+}
+
+#nine {
+    display: grid;
+    grid-row: 5/6;
+    grid-column: 3/4;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+
+}
+
+#nine:hover {
+    background: rgb(102, 100, 100);
+}
+
+#zero {
+    display: grid;
+    grid-row: 6/7;
+    grid-column: 1/3;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+
+}
+
+#zero:hover {
+    background: rgb(102, 100, 100);
+}
+
+#coma {
+    display: grid;
+    grid-row: 6/7;
+    grid-column: 3/4;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+
+}
+
+#coma:hover {
+    background: rgb(102, 100, 100);
+}
+
+#split {
+    display: grid;
+    grid-row: 2/3;
+    grid-column: 4/5;
+    background: orange;
+    font-size: xx-large;
+    color: white;
+}
+
+#split:hover {
+    background: rgb(102, 100, 100);
+}
+
+#multiply {
+    display: grid;
+    grid-row: 3/4;
+    grid-column: 4/5;
+    background: orange;
+    font-size: xx-large;
+    color: white;
+}
+
+#multiply:hover {
+    background: rgb(102, 100, 100);
+}
+
+#minus {
+    display: grid;
+    grid-row: 4/5;
+    grid-column: 4/5;
+    background: orange;
+    font-size: xx-large;
+    color: white;
+}
+
+#minus:hover {
+    background: rgb(102, 100, 100);
+}
+
+#plus {
+    display: grid;
+    grid-row: 5/6;
+    grid-column: 4/5;
+    background: orange;
+    font-size: xx-large;
+    color: white;
+}
+
+#plus:hover {
+    background: rgb(102, 100, 100);
+}
+
+#equal {
+    display: grid;
+    grid-row: 6/7;
+    grid-column: 4/5;
+    background: orange;
+    font-size: xx-large;
+    color: white;
+}
+
+#equal:hover {
+    background: rgb(102, 100, 100);
+}

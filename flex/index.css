@@ -1,0 +1,245 @@
+#calc {
+    display: flex;
+    flex-flow: row wrap;
+    width: 400px;
+    height: 600px;
+    background: rgb(65, 63, 63);
+    padding: 10px;
+}
+
+#result {
+    width: 400px;
+    height: 100px;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#AC {
+    width: 100px;
+    height: 100px;
+    background: gray;
+    font-size: x-large;
+    color: white;
+}
+
+#AC:hover {
+    background: rgb(102, 100, 100);
+}
+
+#percentage {
+    width: 100px;
+    height: 100px;
+    background: gray;
+    font-size: x-large;
+    color: white;
+}
+
+#percentage:hover {
+    background: rgb(102, 100, 100);
+}
+
+#plus-minus  {
+    width: 100px;
+    height: 100px;
+    background: gray;
+    font-size: x-large;
+    color: white;
+}
+
+#plus-minus:hover {
+    background: rgb(102, 100, 100);
+}
+
+#one {
+    width: 100px;
+    height: 100px;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#one:hover {
+    background: rgb(102, 100, 100);
+}
+
+#two  {
+    width: 100px;
+    height: 100px;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#two:hover {
+    background: rgb(102, 100, 100);
+}
+
+#three  {
+    width: 100px;
+    height: 100px;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+
+#three:hover {
+    background: rgb(102, 100, 100);
+}
+
+#four  {
+    width: 100px;
+    height: 100px;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#four:hover {
+    background: rgb(102, 100, 100);
+}
+
+#five  {
+    width: 100px;
+    height: 100px;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#five:hover {
+    background: rgb(102, 100, 100);
+}
+
+#six  {
+    width: 100px;
+    height: 100px;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#six:hover {
+    background: rgb(102, 100, 100);
+}
+
+#seven  {
+    width: 100px;
+    height: 100px;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#seven:hover {
+    background: rgb(102, 100, 100);
+}
+
+#eight  {
+    width: 100px;
+    height: 100px;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#eight:hover {
+    background: rgb(102, 100, 100);
+}
+
+#nine  {
+    width: 100px;
+    height: 100px;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#nine:hover {
+    background: rgb(102, 100, 100);
+}
+
+#zero  {
+    width: 200px;
+    height: 100px;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#zero:hover {
+    background: rgb(102, 100, 100);
+}
+
+#coma  {
+    width: 100px;
+    height: 100px;
+    background: darkgray;
+    font-size: x-large;
+    color: white;
+}
+
+#coma:hover {
+    background: rgb(102, 100, 100);
+}
+
+#split  {
+    width: 100px;
+    height: 100px;
+    background: orange;
+    font-size: x-large;
+    color: white;
+}
+
+#split:hover {
+    background: rgb(248, 133, 1);
+}
+
+#multiply  {
+    width: 100px;
+    height: 100px;
+    background: orange;
+    font-size: x-large;
+    color: white;
+}
+
+#multiply:hover {
+    background: rgb(248, 133, 1);
+}
+
+#minus  {
+    width: 100px;
+    height: 100px;
+    background: orange;
+    font-size: x-large;
+    color: white;
+}
+
+#minus:hover {
+    background: rgb(248, 133, 1);
+}
+
+#plus  {
+    width: 100px;
+    height: 100px;
+    background: orange;
+    font-size: x-large;
+    color: white;
+}
+
+#plus:hover {
+    background: rgb(248, 133, 1);
+}
+
+#equal  {
+    width: 100px;
+    height: 100px;
+    background: orange;
+    font-size: x-large;
+    color: white;
+}
+
+#equal:hover {
+    background: rgb(248, 133, 1);
+}
